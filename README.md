@@ -42,19 +42,26 @@ To run this application, you need to have Flutter and Dart installed on your sys
     flutter run
 
 ### Usage
-User Information Screen: 
+User Information Screen:  
+
     This screen displays the user's CV information, including full name, stack name, Slack username, GitHub link, and a bio. Users can view their information and click the "Edit CV" button to make updates.
 
-Edit User Information Screen: 
+Edit User Information Screen:   
+
     This screen allows users to edit their CV information. It includes text fields for updating the full name, stack name, Slack username, GitHub link, and bio. After making changes, users can click the "Update" button to save their updated CV information.
 
 ### Features
 
-View CV information
-Edit CV information
-Update CV with new details
-User-friendly interface
-Cross-platform (iOS and Android)
+View CV information  
+
+Edit CV information  
+
+Update CV with new details  
+
+User-friendly interface  
+
+Cross-platform (iOS and Android)  
+
 
 ### Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please create an issue or submit a pull request.
