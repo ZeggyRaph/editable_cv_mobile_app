@@ -25,13 +25,21 @@ To run this application, you need to have Flutter and Dart installed on your sys
 
    ```bash
    git clone https://github.com/your-username/cv-editable-app.git
+   
 2. Navigate to the project directory:
-   cd cv-editable-app
+
+   ```bash
+    cd cv-editable-app
+
 3. Install the required dependencies:
+
+    ```bash
    flutter pub get
 
 4. Run the app on an emulator or physical device:
-   flutter run
+
+    ```bash
+    flutter run
 
 ### Usage
 User Information Screen: 
