@@ -69,7 +69,7 @@ class _UserInfoScreenState extends State<UserInfoScreen> {
                 const SizedBox(
                   height: 20.0,
                 ),
-                const Text('Slack username',
+                const Text('Slack Username:',
                   style: kTextStyle,
                 ),
                      Padding(
@@ -79,7 +79,7 @@ class _UserInfoScreenState extends State<UserInfoScreen> {
                       ),
                     ),
                 const SizedBox(height: 20.0,),
-                const Text('GitHub Link',
+                const Text('GitHub Link:',
                   style: kTextStyle,
                 ),
                 Padding(
