@@ -2,8 +2,7 @@
 CV Editable App is a Flutter application that allows users to view and edit their personal information in a CV format. Users can easily update their details and keep their CV up-to-date using this app.
 
 ## Appetize.io link:
-https://appetize.io/app/oj25g4ystcvvzesjy6chlceboy?device=pixel4&osVersion=11.0&scale=75
-
+https://appetize.io/app/2rpnve7y5hhei5rsxyutqvxlyq?device=pixel4&osVersion=12.0&scale=75
 
 ## Table of Contents
 
